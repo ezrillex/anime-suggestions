@@ -1,0 +1,3790 @@
+{
+	"data": [
+		{
+			"node": {
+				"id": 22199,
+				"title": "Akame ga Kill!",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1429\/95946.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1429\/95946l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 24,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:35:40+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 6547,
+				"title": "Angel Beats!",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1244\/111115.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1244\/111115l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:34:41+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 9989,
+				"title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/5\/79697.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/5\/79697l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 11,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:38:25+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 11433,
+				"title": "Ano Natsu de Matteru",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/59405.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/59405l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-11-24T02:28:48+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 14669,
+				"title": "Aura: Maryuuin Kouga Saigo no Tatakai",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/67107.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/67107l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2021-07-29T18:55:17+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 5081,
+				"title": "Bakemonogatari",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/11\/75274.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/11\/75274l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 15,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:38:51+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 39195,
+				"title": "Beastars",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1234\/102008.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1234\/102008l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-12-28T21:54:13+00:00",
+				"finish_date": "2020-12-28"
+			}
+		},
+		{
+			"node": {
+				"id": 34618,
+				"title": "Blend S",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/88286.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/88286l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:49:58+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 31043,
+				"title": "Boku dake ga Inai Machi",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/77957.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/77957l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:36:37+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 31964,
+				"title": "Boku no Hero Academia",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/78745.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/78745l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:34:34+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 33486,
+				"title": "Boku no Hero Academia 2nd Season",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/85221.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/85221l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 25,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:35:11+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 36456,
+				"title": "Boku no Hero Academia 3rd Season",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1319\/92084.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1319\/92084l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 25,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:37:36+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 38408,
+				"title": "Boku no Hero Academia 4th Season",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1412\/107914.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1412\/107914l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 25,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:42:14+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 41587,
+				"title": "Boku no Hero Academia 5th Season",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1911\/113611.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1911\/113611l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 25,
+				"is_rewatching": false,
+				"updated_at": "2021-09-30T01:09:35+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 36896,
+				"title": "Boku no Hero Academia the Movie 1: Futari no Hero",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1736\/93138.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1736\/93138l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-10-20T20:45:02+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 38699,
+				"title": "Boku no Hero Academia the Movie 1: Futari no Hero Specials",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1420\/96793.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1420\/96793l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 2,
+				"is_rewatching": false,
+				"updated_at": "2020-10-26T22:35:26+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 39565,
+				"title": "Boku no Hero Academia the Movie 2: Heroes:Rising",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1019\/103292.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1019\/103292l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-07-20T05:05:21+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 35459,
+				"title": "Boku no Hero Academia: Training of the Dead",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1624\/111683.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1624\/111683l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T05:09:13+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 40904,
+				"title": "Bokutachi no Remake",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1871\/118309.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1871\/118309l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2021-09-30T01:07:14+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 38186,
+				"title": "Bokutachi wa Benkyou ga Dekinai",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1602\/100510.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1602\/100510l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T05:37:45+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 40004,
+				"title": "Bokutachi wa Benkyou ga Dekinai!",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1974\/102960.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1974\/102960l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T05:07:31+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 37435,
+				"title": "Carole & Tuesday",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1611\/96157.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1611\/96157l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T05:02:10+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 14741,
+				"title": "Chuunibyou demo Koi ga Shitai!",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/46931.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/46931l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:39:51+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 35608,
+				"title": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/89974.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/89974l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T05:07:19+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 18671,
+				"title": "Chuunibyou demo Koi ga Shitai! Ren",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/7\/56643.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/7\/56643l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:47:33+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 34382,
+				"title": "Citrus",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/11\/89985.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/11\/89985l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:54:33+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 1,
+				"title": "Cowboy Bebop",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/19644.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/19644l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "watching",
+				"score": 0,
+				"num_episodes_watched": 20,
+				"is_rewatching": false,
+				"updated_at": "2022-02-11T20:46:57+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 15583,
+				"title": "Date A Live",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/44844.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/44844l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2022-02-11T20:36:08+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 19163,
+				"title": "Date A Live II",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/5\/76003.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/5\/76003l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 10,
+				"is_rewatching": false,
+				"updated_at": "2022-02-11T20:36:49+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 22961,
+				"title": "Date A Live II: Kurumi Star Festival",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/69489.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/69489l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2022-02-11T20:36:59+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 17641,
+				"title": "Date A Live: Date to Date",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1629\/112503.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1629\/112503l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2022-02-11T20:36:41+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 1535,
+				"title": "Death Note",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/9453.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/9453l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 37,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:32:49+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 33988,
+				"title": "Demi-chan wa Kataritai",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/8\/83417.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/8\/83417l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-10-26T18:40:46+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 35823,
+				"title": "Demi-chan wa Kataritai: Demi-chan no Natsuyasumi",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/88769.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/88769l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T05:17:19+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 37982,
+				"title": "Domestic na Kanojo",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1021\/95670.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1021\/95670l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:55:14+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 37520,
+				"title": "Dororo",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1879\/100467.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1879\/100467l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:45:13+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 38691,
+				"title": "Dr. Stone",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1613\/102576.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1613\/102576l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 24,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:42:33+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 30694,
+				"title": "Dragon Ball Super",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/7\/74606.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/7\/74606l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 131,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:47:47+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 36946,
+				"title": "Dragon Ball Super: Broly",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1575\/93498.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1575\/93498l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T05:05:00+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 813,
+				"title": "Dragon Ball Z",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1607\/117271.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1607\/117271l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 291,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:40:33+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 39026,
+				"title": "Dumbbell Nan Kilo Moteru?",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1385\/101060.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1385\/101060l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "on_hold",
+				"score": 0,
+				"num_episodes_watched": 9,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T05:02:40+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 28121,
+				"title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/70187.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/70187l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:39:22+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 37347,
+				"title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1730\/101329.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1730\/101329l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:51:10+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 32901,
+				"title": "Eromanga-sensei",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/86468.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/86468l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 5,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:48:10+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 2759,
+				"title": "Evangelion: 1.0 You Are (Not) Alone",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/7\/74975.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/7\/74975l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:37:26+00:00",
+				"finish_date": "2020-07-19"
+			}
+		},
+		{
+			"node": {
+				"id": 3784,
+				"title": "Evangelion: 2.0 You Can (Not) Advance",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/5\/74983.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/5\/74983l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:37:31+00:00",
+				"finish_date": "2020-07-19"
+			}
+		},
+		{
+			"node": {
+				"id": 3785,
+				"title": "Evangelion: 3.0 You Can (Not) Redo",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/43201.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/43201l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-10-20T20:10:23+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 3786,
+				"title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1422\/113533.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1422\/113533l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2021-08-13T04:05:08+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 25537,
+				"title": "Fate\/stay night Movie: Heaven's Feel - I. Presage Flower",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1274\/102213.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1274\/102213l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-11-06T18:53:41+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 22297,
+				"title": "Fate\/stay night: Unlimited Blade Works",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/67333.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/67333l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:23:40+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 28701,
+				"title": "Fate\/stay night: Unlimited Blade Works 2nd Season",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/11\/72863.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/11\/72863l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:37:15+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 10087,
+				"title": "Fate\/Zero",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1887\/117644.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1887\/117644l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:37:07+00:00",
+				"finish_date": "2020-07-19"
+			}
+		},
+		{
+			"node": {
+				"id": 11741,
+				"title": "Fate\/Zero 2nd Season",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1522\/117645.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1522\/117645l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-10-20T20:45:30+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 5114,
+				"title": "Fullmetal Alchemist: Brotherhood",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1223\/96541.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1223\/96541l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:33:34+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 33731,
+				"title": "Gabriel DropOut",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/82590.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/82590l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:53:16+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 34280,
+				"title": "Gamers!",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/86828.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/86828l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:49:15+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 39463,
+				"title": "Gleipnir",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1808\/111697.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1808\/111697l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "watching",
+				"score": 0,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:29:44+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 37349,
+				"title": "Goblin Slayer",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1719\/95621.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1719\/95621l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:43:31+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 38807,
+				"title": "Goblin Slayer: Bouken Kiroku Youshi - Adventure Sheet",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1270\/121782.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1270\/121782l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:29:39+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 39576,
+				"title": "Goblin Slayer: Goblin's Crown",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1699\/110724.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1699\/110724l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:29:51+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 33783,
+				"title": "Godzilla 1: Kaijuu Wakusei",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1847\/93081.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1847\/93081l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T05:22:17+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 43692,
+				"title": "Gokushufudou",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1535\/117726.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1535\/117726l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 5,
+				"is_rewatching": false,
+				"updated_at": "2021-06-19T18:36:04+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 17895,
+				"title": "Golden Time",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/52091.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/52091l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 24,
+				"is_rewatching": false,
+				"updated_at": "2021-10-02T00:03:56+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 17729,
+				"title": "Grisaia no Kajitsu",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1645\/112632.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1645\/112632l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2020-12-02T03:29:58+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 29093,
+				"title": "Grisaia no Meikyuu: Caprice no Mayu 0",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1278\/112633.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1278\/112633l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-12-02T03:30:17+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 29095,
+				"title": "Grisaia no Rakuen",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/8\/72855.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/8\/72855l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 10,
+				"is_rewatching": false,
+				"updated_at": "2020-12-02T03:33:34+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 270,
+				"title": "Hellsing",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/19956.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/19956l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:44:30+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 40938,
+				"title": "Hige wo Soru. Soshite Joshikousei wo Hirou.",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1146\/113477.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1146\/113477l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2021-09-30T01:17:58+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 11617,
+				"title": "High School DxD",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1331\/111940.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1331\/111940l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:39:40+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 8074,
+				"title": "Highschool of the Dead",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/11\/78311.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/11\/78311l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 6,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:37:27+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 28825,
+				"title": "Himouto! Umaru-chan",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/75086.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/75086l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "dropped",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:48:33+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 37614,
+				"title": "Hitoribocchi no Marumaru Seikatsu",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1130\/99458.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1130\/99458l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T05:08:07+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 39468,
+				"title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1582\/101697.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1582\/101697l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "dropped",
+				"score": 0,
+				"num_episodes_watched": 2,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T05:10:38+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 42897,
+				"title": "Horimiya",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1695\/111486.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1695\/111486l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2021-04-20T17:11:51+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 42361,
+				"title": "Ijiranaide, Nagatoro-san",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1900\/110097.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1900\/110097l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2021-06-29T05:43:12+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 37210,
+				"title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1649\/93412.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1649\/93412l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 6,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:30:37+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 38472,
+				"title": "Isekai Quartet",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1965\/99667.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1965\/99667l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:58:40+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 39988,
+				"title": "Isekai Quartet 2",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1030\/103383.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1030\/103383l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T05:08:25+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 36220,
+				"title": "Itsudatte Bokura no Koi wa 10 cm Datta.",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/89554.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/89554l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 6,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:27:51+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 40748,
+				"title": "Jujutsu Kaisen",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1171\/109222.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1171\/109222l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 24,
+				"is_rewatching": false,
+				"updated_at": "2021-06-08T01:18:04+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 5680,
+				"title": "K-On!",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/76120.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/76120l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "watching",
+				"score": 0,
+				"num_episodes_watched": 3,
+				"is_rewatching": false,
+				"updated_at": "2020-10-21T00:12:52+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 37999,
+				"title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1295\/106551.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1295\/106551l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:31:06+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 43609,
+				"title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen OVA",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1027\/115055.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1027\/115055l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2021-06-19T18:36:31+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 40591,
+				"title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1764\/106659.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1764\/106659l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-07-20T05:00:13+00:00",
+				"finish_date": "2020-07-19"
+			}
+		},
+		{
+			"node": {
+				"id": 40750,
+				"title": "Kaifuku Jutsushi no Yarinaoshi",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1301\/110018.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1301\/110018l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 2,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2021-04-20T17:11:26+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 40221,
+				"title": "Kami no Tou",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1702\/106229.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1702\/106229l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:54:21+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 39198,
+				"title": "Kanata no Astra",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1784\/106428.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1784\/106428l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2021-04-22T02:12:39+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 43969,
+				"title": "Kanojo mo Kanojo",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1713\/117119.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1713\/117119l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 6,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2021-09-30T01:06:46+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 40839,
+				"title": "Kanojo, Okarishimasu",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1902\/128382.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1902\/128382l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 6,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2022-02-11T20:44:23+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 42963,
+				"title": "Kanojo, Okarishimasu 2nd Season",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1070\/124592.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1070\/124592l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:26:13+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 36903,
+				"title": "Kengan Ashura",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1421\/100770.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1421\/100770l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2021-06-29T18:11:55+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 40269,
+				"title": "Kengan Ashura Part 2",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1546\/102680.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1546\/102680l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2021-06-29T18:12:08+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 18679,
+				"title": "Kill la Kill",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1464\/111943.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1464\/111943l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 24,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:36:26+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 47778,
+				"title": "Kimetsu no Yaiba: Yuukaku-hen",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1908\/120036.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1908\/120036l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 11,
+				"is_rewatching": false,
+				"updated_at": "2022-02-13T22:00:44+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 32281,
+				"title": "Kimi no Na wa.",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/5\/87048.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/5\/87048l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 10,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:30:16+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 36098,
+				"title": "Kimi no Suizou wo Tabetai",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1768\/93291.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1768\/93291l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-07-20T04:54:00+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 38594,
+				"title": "Kimi to, Nami ni Noretara",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1893\/99701.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1893\/99701l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T05:23:06+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 7593,
+				"title": "Kiss x Sis (TV)",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1660\/121553.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1660\/121553l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 6,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:48:53+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 33206,
+				"title": "Kobayashi-san Chi no Maid Dragon",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/5\/85434.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/5\/85434l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:42:03+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 39247,
+				"title": "Kobayashi-san Chi no Maid Dragon S",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1252\/115539.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1252\/115539l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2021-09-30T01:06:26+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 28851,
+				"title": "Koe no Katachi",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1122\/96435.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1122\/96435l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 10,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-09-15T05:04:30+00:00",
+				"finish_date": "2020-07-19"
+			}
+		},
+		{
+			"node": {
+				"id": 34984,
+				"title": "Koi wa Ameagari no You ni",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1271\/90136.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1271\/90136l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2021-07-02T04:07:34+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 11887,
+				"title": "Kokoro Connect",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/39665.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/39665l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2020-10-20T20:46:06+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 16001,
+				"title": "Kokoro Connect: Michi Random",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/45526.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/45526l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 4,
+				"is_rewatching": false,
+				"updated_at": "2020-10-20T20:46:19+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 48926,
+				"title": "Komi-san wa, Comyushou desu.",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1899\/117237.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1899\/117237l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2022-02-11T20:47:15+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 30831,
+				"title": "Kono Subarashii Sekai ni Shukufuku wo!",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/8\/77831.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/8\/77831l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 10,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:37:05+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 32937,
+				"title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/83188.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/83188l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 10,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:40:14+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 38040,
+				"title": "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1638\/119321.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1638\/119321l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:57:56+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 32380,
+				"title": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1649\/98516.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1649\/98516l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:59:11+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 43,
+				"title": "Koukaku Kidoutai",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/82594.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/82594l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2021-06-19T18:55:48+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 32949,
+				"title": "Kuzu no Honkai",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/5\/83937.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/5\/83937l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-08-13T02:29:18+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 39017,
+				"title": "Kyokou Suiri",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1310\/117188.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1310\/117188l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-10-26T18:40:06+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 18153,
+				"title": "Kyoukai no Kanata",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/3\/85468.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/3\/85468l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:25:17+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 44276,
+				"title": "Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1357\/113277.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1357\/113277l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "dropped",
+				"score": 5,
+				"num_episodes_watched": 6,
+				"is_rewatching": false,
+				"updated_at": "2021-06-19T18:33:34+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 1887,
+				"title": "Lucky☆Star",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1561\/115660.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1561\/115660l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "on_hold",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:36:15+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 34599,
+				"title": "Made in Abyss",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/86733.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/86733l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-11-12T04:56:48+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 37599,
+				"title": "Magatsu Wahrheit: Zuerst",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1109\/108983.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1109\/108983l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2021-06-19T18:56:42+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 33487,
+				"title": "Masamune-kun no Revenge",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/83709.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/83709l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:46:46+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 20541,
+				"title": "Mikakunin de Shinkoukei",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/75249.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/75249l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:55:43+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 10620,
+				"title": "Mirai Nikki (TV)",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/33465.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/33465l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:34:52+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 32182,
+				"title": "Mob Psycho 100",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/8\/80356.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/8\/80356l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 10,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2021-11-24T00:34:12+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 37510,
+				"title": "Mob Psycho 100 II",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1918\/96303.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1918\/96303l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:42:54+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 17074,
+				"title": "Monogatari Series: Second Season",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1807\/121534.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1807\/121534l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 26,
+				"is_rewatching": false,
+				"updated_at": "2020-10-26T22:43:46+00:00",
+				"finish_date": "2020-07-19"
+			}
+		},
+		{
+			"node": {
+				"id": 30307,
+				"title": "Monster Musume no Iru Nichijou",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/75104.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/75104l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:46:15+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 40483,
+				"title": "Murenase! Seton Gakuen",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1558\/104666.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1558\/104666l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T05:12:19+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 31442,
+				"title": "Musaigen no Phantom World",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/78339.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/78339l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2021-06-23T22:43:14+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 39535,
+				"title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1530\/117776.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1530\/117776l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 11,
+				"is_rewatching": false,
+				"updated_at": "2021-04-20T17:12:17+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 45576,
+				"title": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1028\/117777.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1028\/117777l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2022-02-11T20:47:42+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 16067,
+				"title": "Nagi no Asu kara",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/7\/53549.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/7\/53549l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2021-04-27T02:28:46+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 41168,
+				"title": "Nakitai Watashi wa Neko wo Kaburu",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1045\/106389.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1045\/106389l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-10-26T22:34:47+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 877,
+				"title": "Nana",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/11232.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/11232l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:51:02+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 20,
+				"title": "Naruto",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/17405.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/17405l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:34:20+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 12467,
+				"title": "Nazo no Kanojo X",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/3\/75205.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/3\/75205l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2020-11-06T18:15:57+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 15689,
+				"title": "Nekomonogatari: Kuro",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1170\/121597.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1170\/121597l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 4,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:49:42+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 30,
+				"title": "Neon Genesis Evangelion",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1314\/108941.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1314\/108941l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 26,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:37:58+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 32,
+				"title": "Neon Genesis Evangelion: The End of Evangelion",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1404\/98182.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1404\/98182l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:38:46+00:00",
+				"finish_date": "2020-07-19"
+			}
+		},
+		{
+			"node": {
+				"id": 18897,
+				"title": "Nisekoi",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/75587.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/75587l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 20,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:28:22+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 27787,
+				"title": "Nisekoi:",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/72626.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/72626l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:28:12+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 11597,
+				"title": "Nisemonogatari",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1044\/103654.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1044\/103654l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 11,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:44:40+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 19815,
+				"title": "No Game No Life",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1074\/111944.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1074\/111944l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:34:25+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 30276,
+				"title": "One Punch Man",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/76049.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/76049l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:33:58+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 34134,
+				"title": "One Punch Man 2nd Season",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1247\/122044.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1247\/122044l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:40:51+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 14199,
+				"title": "Oniichan dakedo Ai sae Areba Kankeinai yo ne!",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/42111.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/42111l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 5,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:59:51+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 38483,
+				"title": "Ore wo Suki nano wa Omae dake ka yo",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1348\/102797.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1348\/102797l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T05:01:00+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 40936,
+				"title": "Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1155\/106799.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1155\/106799l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:29:11+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 43007,
+				"title": "Osananajimi ga Zettai ni Makenai Love Comedy",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1111\/113327.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1111\/113327l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 5,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2021-08-20T17:38:10+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 38555,
+				"title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1483\/107061.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1483\/107061l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:39:16+00:00",
+				"finish_date": "2020-07-19"
+			}
+		},
+		{
+			"node": {
+				"id": 40834,
+				"title": "Ousama Ranking",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1347\/117616.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1347\/117616l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 23,
+				"is_rewatching": false,
+				"updated_at": "2022-04-07T18:38:18+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 29803,
+				"title": "Overlord",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/7\/88019.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/7\/88019l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:39:32+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 35073,
+				"title": "Overlord II",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1212\/113415.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1212\/113415l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:44:09+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 31181,
+				"title": "Owarimonogatari",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/8\/76479.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/8\/76479l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "watching",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2021-06-19T18:42:08+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 40436,
+				"title": "Peter Grill to Kenja no Jikan",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1368\/108441.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1368\/108441l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 6,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:27:21+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 27775,
+				"title": "Plastic Memories",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/72750.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/72750l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:43:55+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 37345,
+				"title": "Plunderer",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1534\/104784.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1534\/104784l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T05:05:07+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 13601,
+				"title": "Psycho-Pass",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/5\/43399.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/5\/43399l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "watching",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2021-06-19T19:01:40+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 31240,
+				"title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1522\/128039.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1522\/128039l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 25,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:35:30+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 36286,
+				"title": "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1081\/95707.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1081\/95707l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T05:04:46+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 30015,
+				"title": "ReLIFE",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/3\/82149.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/3\/82149l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2020-09-15T04:17:54+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 38992,
+				"title": "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1432\/103533.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1432\/103533l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-10-26T18:39:31+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 32951,
+				"title": "Rokudenashi Majutsu Koushi to Akashic Records",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/8\/85593.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/8\/85593l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2021-02-11T04:34:31+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 23277,
+				"title": "Saenai Heroine no Sodatekata",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/7\/68783.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/7\/68783l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-12-08T15:22:01+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 33255,
+				"title": "Saiki Kusuo no Ψ-nan",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/11\/80167.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/11\/80167l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 120,
+				"is_rewatching": false,
+				"updated_at": "2020-08-13T02:30:19+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 34612,
+				"title": "Saiki Kusuo no Ψ-nan 2",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1961\/91383.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1961\/91383l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 24,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:34:10+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 40542,
+				"title": "Saiki Kusuo no Ψ-nan: Ψ-shidou-hen",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1993\/119022.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1993\/119022l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 6,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:34:06+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 38249,
+				"title": "Saiki Kusuo no Ψ-nan: Kanketsu-hen",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1159\/95661.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1159\/95661l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:35:33+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 32542,
+				"title": "Sakamoto Desu ga?",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/79468.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/79468l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:46:31+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 13759,
+				"title": "Sakura-sou no Pet na Kanojo",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/43643.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/43643l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 24,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:40:03+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 37450,
+				"title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1301\/93586.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1301\/93586l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:42:42+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 38329,
+				"title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1613\/102179.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1613\/102179l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-10-26T18:42:47+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 42351,
+				"title": "Senpai ga Uzai Kouhai no Hanashi",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1055\/118890.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1055\/118890l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2022-02-11T20:48:04+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 41456,
+				"title": "Sentouin, Hakenshimasu!",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1444\/115118.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1444\/115118l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2021-06-19T18:32:13+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 18119,
+				"title": "Servant x Service",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/51579.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/51579l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2022-02-11T20:35:20+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 23273,
+				"title": "Shigatsu wa Kimi no Uso",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/3\/67177.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/3\/67177l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 22,
+				"is_rewatching": false,
+				"updated_at": "2021-02-11T00:44:40+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 29786,
+				"title": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/75106.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/75106l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-10-19T03:39:37+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 16498,
+				"title": "Shingeki no Kyojin",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/47347.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/47347l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 25,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:33:13+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 25777,
+				"title": "Shingeki no Kyojin Season 2",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/84177.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/84177l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:36:06+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 35760,
+				"title": "Shingeki no Kyojin Season 3",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1173\/92110.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1173\/92110l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:40:41+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 38524,
+				"title": "Shingeki no Kyojin Season 3 Part 2",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1517\/100633.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1517\/100633l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 10,
+				"num_episodes_watched": 10,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:42:25+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 40028,
+				"title": "Shingeki no Kyojin: The Final Season",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1000\/110531.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1000\/110531l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 16,
+				"is_rewatching": false,
+				"updated_at": "2021-06-19T18:34:14+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 48583,
+				"title": "Shingeki no Kyojin: The Final Season Part 2",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1948\/120625.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1948\/120625l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "watching",
+				"score": 9,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2022-04-02T03:31:22+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 31374,
+				"title": "Shingeki! Kyojin Chuugakkou",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/3\/75467.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/3\/75467l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2022-03-24T03:24:20+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 13125,
+				"title": "Shinsekai yori",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/36775.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/36775l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2021-04-24T07:18:55+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 48736,
+				"title": "Sono Bisque Doll wa Koi wo Suru",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1179\/119897.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1179\/119897l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "watching",
+				"score": 0,
+				"num_episodes_watched": 11,
+				"is_rewatching": false,
+				"updated_at": "2022-03-24T03:26:46+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 35839,
+				"title": "Sora yori mo Tooi Basho",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/89879.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/89879l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:54:13+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 39456,
+				"title": "Sounan Desu ka?",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1741\/102237.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1741\/102237l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T05:11:48+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 49357,
+				"title": "Star Wars: Visions",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1958\/117686.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1958\/117686l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 9,
+				"is_rewatching": false,
+				"updated_at": "2022-04-02T03:36:20+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 9253,
+				"title": "Steins;Gate",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1935\/127974.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1935\/127974l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 10,
+				"num_episodes_watched": 24,
+				"is_rewatching": false,
+				"updated_at": "2021-01-24T20:42:32+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 30484,
+				"title": "Steins;Gate 0",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1375\/93521.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1375\/93521l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 23,
+				"is_rewatching": false,
+				"updated_at": "2021-01-24T20:41:57+00:00",
+				"finish_date": "2021-01-24"
+			}
+		},
+		{
+			"node": {
+				"id": 37492,
+				"title": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Intermedio",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1163\/97351.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1163\/97351l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2021-06-19T18:39:46+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 11577,
+				"title": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1611\/112806.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1611\/112806l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2021-06-19T18:38:47+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 11757,
+				"title": "Sword Art Online",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/11\/39717.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/11\/39717l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 25,
+				"is_rewatching": false,
+				"updated_at": "2021-08-08T04:08:19+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 21881,
+				"title": "Sword Art Online II",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1223\/121999.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1223\/121999l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 6,
+				"num_episodes_watched": 24,
+				"is_rewatching": false,
+				"updated_at": "2021-08-08T04:08:41+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 36474,
+				"title": "Sword Art Online: Alicization",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1993\/93837.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1993\/93837l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:45:23+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 48556,
+				"title": "Takt Op. Destiny",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1449\/117797.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1449\/117797l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2022-02-11T20:49:20+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 21647,
+				"title": "Tamako Love Story",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1417\/91333.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1417\/91333l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T05:00:26+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 16417,
+				"title": "Tamako Market",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1669\/122434.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1669\/122434l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:57:00+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 35790,
+				"title": "Tate no Yuusha no Nariagari",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1490\/101365.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1490\/101365l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 25,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:41:38+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 38610,
+				"title": "Tejina-senpai",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1510\/99891.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1510\/99891l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 6,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2021-08-08T04:09:12+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 2001,
+				"title": "Tengen Toppa Gurren Lagann",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/5123.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/5123l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:36:46+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 38826,
+				"title": "Tenki no Ko",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1880\/101146.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1880\/101146l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:56:29+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 37430,
+				"title": "Tensei shitara Slime Datta Ken",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1694\/93337.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1694\/93337l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 24,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:43:44+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 2236,
+				"title": "Toki wo Kakeru Shoujo",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1\/2432.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1\/2432l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-11-24T02:30:44+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 22319,
+				"title": "Tokyo Ghoul",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/5\/64449.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/5\/64449l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:34:05+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 41389,
+				"title": "Tonikaku Kawaii",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1613\/108722.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1613\/108722l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-12-25T22:44:28+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 4224,
+				"title": "Toradora!",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/22128.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/22128l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 25,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:35:01+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 25157,
+				"title": "Trinity Seven",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/67795.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/12\/67795l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "watching",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:44:17+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 39469,
+				"title": "Tsugu Tsugumomo",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1997\/106184.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1997\/106184l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2021-08-08T04:10:04+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 34019,
+				"title": "Tsugumomo",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/84461.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/84461l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 6,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2021-08-08T04:06:29+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 34822,
+				"title": "Tsuki ga Kirei",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/85592.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/85592l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2021-10-01T23:38:39+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 36539,
+				"title": "Tsuki ga Kirei Special",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/88307.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/88307l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2021-10-01T23:59:39+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 28025,
+				"title": "Tsukimonogatari",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/68259.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/68259l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 8,
+				"num_episodes_watched": 4,
+				"is_rewatching": false,
+				"updated_at": "2020-11-12T04:52:31+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 37521,
+				"title": "Vinland Saga",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1500\/103005.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1500\/103005l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "plan_to_watch",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:47:57+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 32899,
+				"title": "Watashi ga Motete Dousunda",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/81953.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/81953l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "dropped",
+				"score": 0,
+				"num_episodes_watched": 1,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:58:27+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 35968,
+				"title": "Wotaku ni Koi wa Muzukashii",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1864\/93518.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1864\/93518l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 11,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:49:34+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 14813,
+				"title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1786\/120117.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1786\/120117l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:40:23+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 23847,
+				"title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/11\/75376.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/11\/75376l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 13,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:43:21+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 37779,
+				"title": "Yakusoku no Neverland",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1830\/118780.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1830\/118780l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 9,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:41:21+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 28677,
+				"title": "Yamada-kun to 7-nin no Majo",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/73700.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/73700l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2021-11-24T00:31:25+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 39710,
+				"title": "Yesterday wo Utatte",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1553\/107721.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1553\/107721l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-07-20T05:01:08+00:00",
+				"finish_date": "2020-07-19"
+			}
+		},
+		{
+			"node": {
+				"id": 35507,
+				"title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/5\/86830.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/5\/86830l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2021-09-12T20:27:19+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 36726,
+				"title": "Yuragi-sou no Yuuna-san",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1462\/98802.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1462\/98802l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "completed",
+				"score": 7,
+				"num_episodes_watched": 12,
+				"is_rewatching": false,
+				"updated_at": "2020-10-26T18:37:24+00:00"
+			}
+		},
+		{
+			"node": {
+				"id": 37976,
+				"title": "Zombieland Saga",
+				"main_picture": {
+					"medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1084\/128208.jpg",
+					"large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1084\/128208l.jpg"
+				}
+			},
+			"list_status": {
+				"status": "dropped",
+				"score": 0,
+				"num_episodes_watched": 0,
+				"is_rewatching": false,
+				"updated_at": "2020-06-05T04:55:50+00:00"
+			}
+		}
+	],
+	"paging": {}
+}
