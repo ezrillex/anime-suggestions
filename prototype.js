@@ -156,10 +156,16 @@ recommendations = recommendations.filter(element=>{
     }) === -1
 })
 
-log("Recommendations:")
-recommendations.forEach(element=>{
-    log(element.title)
-})
+// log("Recommendations:")
+// recommendations.forEach(element=>{
+//     log(element.title)
+// })
 
 let end = performance.now()
+
+const used = process.memoryUsage();
+for (let key in used) {
+  console.log(`${key} ${Math.round(used[key] / 1024 / 1024 * 100) / 100} MB`);
+}
+
 log("Finished in " + (end - start) + " ms")
