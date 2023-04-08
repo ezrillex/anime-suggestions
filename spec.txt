@@ -1,39 +1,22 @@
 Alignment
 
-The User
-How much out of 10 do they like X show?
-Fate 9/10
-
-Any MAL User
-How much out of 10 do they like X show?
-Fate 10/10
-
 Alignment is how far the rating is from what you rated the show. To find like minded ratings.
-Max alignment = 10
-Min alignment = 0
-Current alignment = 9
+
 
 If we repeat this process for all shared series we could determine how aligned the opinions are.
 
-calculate the average alignment (maybe median could also be useful?)
-
-so if they achieved 23 points out of 100 that would be only a 23% alignment.
-
-
+calculate the average alignment
 we then repeat this process for many other users.
 
-and then we could query such that I get:
-
+Then we query such that:
 
 List animes of people that have rated stuff like I have.
-That I have not watched. That they rated above a threshold I defined.
+That I have not watched. That are their top rated.
 
-In theory this would be an anime I like, and if I don't I just drop it and give it a score. 
+In theory this would be anime I like, and if I don't I just drop it and give it a score to refine the recommendations. Results: There is popular anime bubbling up. Some are stuff that I have watched clips so maybe I will like it, is just logical that popular stuff is coming up. However there are hidden gems, the best way to move forward is to watch and score it.
 
 Rinse and repeat.
 
 
-TODO:
-some sensibility like, if it's one point off still give it a high alignment score. It should be like a curve
-
-Because seeing the vanilla diff in MAL it' like a lot of ones. RN it's linear.
+Ideas:
+some sensibility like, if it's one point off still give it a high alignment score. It should be like a curve. Result: The results were almost identical. The same individuals bubbled up, with a bit different score but very close to other method. Mal's diff is linear, this is also less complexity on the query side.
